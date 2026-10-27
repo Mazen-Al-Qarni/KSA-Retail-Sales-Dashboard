@@ -103,19 +103,15 @@ Measures are organized into display folders: **Core KPIs**, **Time Intelligence*
 
 ---
 
-## 📁 Repository Structure
+## 📁 Repository Contents
 
-```
-├── KSA_Sales_Dashboard.pbix      # Power BI report
-├── KSA_Retail_Sales_BI.xlsx      # Source dataset (synthetic)
-├── KSA_Navy_Theme.json           # Custom report theme
-├── images/
-│   ├── dashboard.png
-│   ├── data_model.png
-│   └── dax_query.png
-└── README.md
-```
+- `KSA_Sales_Dashboard.pbix`: Full interactive Power BI report file.
+- `KSA_Retail_Sales_BI.xlsx`: Source dataset (synthetic).
+- `KSA_Navy_Theme.json`: Custom report theme.
+- `images/`: Dashboard, data model and DAX screenshots.
 
+  ---
+  
 ## ▶️ How to Use
 
 1. Download `KSA_Sales_Dashboard.pbix` and open it in [Power BI Desktop](https://www.microsoft.com/power-bi/desktop) (free).
