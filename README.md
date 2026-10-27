@@ -2,7 +2,7 @@
 
 An end-to-end Business Intelligence project analyzing **100,000 retail orders across Saudi Arabia (2022–2025)**, from data modeling to an interactive executive KPI dashboard.
 
-🔗 **[View the live interactive dashboard](PASTE_YOUR_POWER_BI_LINK_HERE)**
+🔗 **[View the live interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE5ZWY2YzctMTNmYy00NWEwLWEzOTctYTRmNzVkZjBmYWVhIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)**
 
 > ⚠️ The dataset is **synthetic** and was created for learning and portfolio purposes. It does not represent any real company.
 
