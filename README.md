@@ -123,4 +123,4 @@ Measures are organized into display folders: **Core KPIs**, **Time Intelligence*
 
 ---
 
-**Author:** Mazen Alqarni
+**Author:** [Mazen Alqarni](https://www.linkedin.com/in/mazen-alqarni-)
