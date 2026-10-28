@@ -4,7 +4,7 @@ An end-to-end Business Intelligence project analyzing **100,000 retail orders ac
 
 🔗 **[View the live interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDE5ZWY2YzctMTNmYy00NWEwLWEzOTctYTRmNzVkZjBmYWVhIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)**
 
-> ⚠️ The dataset is **synthetic** and was created for learning and portfolio purposes. It does not represent any real company.
+> ⚠️ The dataset is **synthetic** and was designed to simulate Saudi retail seasonality for learning and portfolio purposes. It does not represent any real company.
 
 ![Dashboard](images/dashboard.png)
 
@@ -15,7 +15,8 @@ An end-to-end Business Intelligence project analyzing **100,000 retail orders ac
 - **Revenue reached SAR 45.8M**, up **20.9% YoY** and nearly doubling since 2022 (SAR 24.7M)
 - **Target achievement improved** from 97.5% in 2022 to **103.3%** in 2025
 - **Growth was volume-driven:** orders grew 21% while average order value stayed flat
-- **White Friday makes November the peak month**; July and August are the slowest
+- **White Friday makes November the peak month**, with daily revenue 2.7x a normal day; July and August are the slowest
+- **Ramadan lifts daily orders by 41% but revenue by only 8%**, as demand shifts to lower-priced groceries and fragrances
 - **Riyadh and Makkah regions** generate over half of total revenue
 - **Online drives 60%** of all orders
 
