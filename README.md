@@ -38,6 +38,7 @@ An end-to-end Business Intelligence project analyzing **100,000 retail orders ac
 - **Top 5 sales reps** with revenue, orders and margin
 - **Slicers:** Year, Region, Category, Manager
 - **Reset button** (bookmark) to return to the default view
+- **Seasonal tooltip:** hovering over a month shows the Saudi season in that period (e.g. White Friday, Ramadan, National Day)
 
 ---
 
